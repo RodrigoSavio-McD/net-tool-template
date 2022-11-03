@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureSettingsLib", "src\FeatureSettingsLib\FeatureSettingsLib.csproj", "{CC9FFA53-B9F2-4A72-B211-7DE8267E5905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleOfProjectOrderValidator", "src\ExampleOfProjectOrderValidator\ExampleOfProjectOrderValidator.csproj", "{90E13F86-2E12-4908-8442-2078A367D63F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9FFA53-B9F2-4A72-B211-7DE8267E5905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9FFA53-B9F2-4A72-B211-7DE8267E5905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9FFA53-B9F2-4A72-B211-7DE8267E5905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9FFA53-B9F2-4A72-B211-7DE8267E5905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E13F86-2E12-4908-8442-2078A367D63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E13F86-2E12-4908-8442-2078A367D63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E13F86-2E12-4908-8442-2078A367D63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E13F86-2E12-4908-8442-2078A367D63F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

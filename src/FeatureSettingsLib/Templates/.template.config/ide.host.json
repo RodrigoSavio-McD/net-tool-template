@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/vs-2017.3.host",
+  "order": 0,
+  "symbolInfo": [
+    {
+      "id": "FeatSet",
+      "name": {
+        "text": "The name of the FEAT SETT2."
+      },
+      "isVisible": true
+    }
+  ]
+}
